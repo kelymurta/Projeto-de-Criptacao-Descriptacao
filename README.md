@@ -21,5 +21,6 @@ Esse código apresenta as seguintes limitações:
 Palavras com acento não são descriptadas em sua grafia exata;
 Na cifra de Vigenère e na criptação com as duas cifras, caso o usuário insira aspas simples ('') ou hashtag (#) o código não irá funcionar.
 
-
+# Colaboradores
+Andrew Alaniz; Caio Miazzi; Christiany Belini; Kely Murta; Letícia Costa.
 
