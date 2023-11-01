@@ -1,5 +1,5 @@
 # Projeto-de-Criptacao-Descriptacao
-Neste projeto, foi desenvolvido um programa de criptografia e descriptografia em Python que utiliza a cifra de Vigenère e a cifra de Cézar juntas. Após tentar construir a cifra de Cézar e ver limitações nela, apareceu a opção de trabalhar com a cifra de Vigenère que também havia limitações, sendo assim, as duas foram adicionadas em um mesmo código para trabalharem simultaneamente.
+Neste projeto, foi desenvolvido um programa de criptografia e descriptografia em Python que utiliza a cifra de Vigenère e a cifra de Cézar juntas. Após tentar construir a cifra de Cézar e ver limitações nela, apareceu a opção de trabalhar com a cifra de Vigenère que também havia limitações, sendo assim, as duas foram adicionadas em um mesmo código para trabalharem simultaneamente. O usuário vai inserir uma mensagem e uma chave, a partir da chave o código vai criptografar a mensagem passando pela cifra de Cézar e pela cifra de Vignère.
 
 # Funcionalidades do Programa
 Criptografia: Permite ao usuário inserir uma mensagem e uma chave para criptografar a mensagem. A mensagem é convertida em uma série de números com base na tabela de caracteres personalizada e, em seguida, realiza uma operação de soma com a chave para criar a mensagem criptografada.
